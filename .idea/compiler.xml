@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Template-Pattern-Example" />
+        <module name="FactoryMethod-Example" />
+        <module name="State-Pattern-Example" />
+        <module name="Singleton-Example" />
+        <module name="Visitor-Pattern-Example" />
+        <module name="AbstractFactory-Example" />
+        <module name="MVC-Pattern-Example" />
+        <module name="FacadePattern-Example" />
+        <module name="Observer-Pattern" />
+        <module name="ObserverPattern-OnlineShop-Example" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

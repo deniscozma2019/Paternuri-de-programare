@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/AbstractFactory-Example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AbstractFactory-Example/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FacadePattern-Example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FacadePattern-Example/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FactoryMethod-Example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FactoryMethod-Example/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MVC-Pattern-Example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MVC-Pattern-Example/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Observer-Pattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Observer-Pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ObserverPattern-OnlineShop-Example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ObserverPattern-OnlineShop-Example/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Singleton-Example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Singleton-Example/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/State-Pattern-Example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/State-Pattern-Example/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Template-Pattern-Example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Template-Pattern-Example/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Visitor-Pattern-Example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Visitor-Pattern-Example/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

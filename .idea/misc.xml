@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Observer-Pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/Singleton-Example/pom.xml" />
+        <option value="$PROJECT_DIR$/MVC-Pattern-Example/pom.xml" />
+        <option value="$PROJECT_DIR$/FacadePattern-Example/pom.xml" />
+        <option value="$PROJECT_DIR$/FactoryMethod-Example/pom.xml" />
+        <option value="$PROJECT_DIR$/State-Pattern-Example/pom.xml" />
+        <option value="$PROJECT_DIR$/AbstractFactory-Example/pom.xml" />
+        <option value="$PROJECT_DIR$/Visitor-Pattern-Example/pom.xml" />
+        <option value="$PROJECT_DIR$/Template-Pattern-Example/pom.xml" />
+        <option value="$PROJECT_DIR$/ObserverPattern-OnlineShop-Example/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_20" default="true" project-jdk-name="20" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
